@@ -465,8 +465,8 @@ const game = {
 
 // Preload
 function preload() {
-  txtFont = loadFont("/fonts/txtFont.ttf");
-  numberFont = loadFont("/fonts/numbers-font.ttf");
+  txtFont = loadFont("fonts/txtFont.ttf");
+  numberFont = loadFont("fonts/numbers-font.ttf");
 }
 // Setup
 function setup() {
