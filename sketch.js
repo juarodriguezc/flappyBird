@@ -35,7 +35,7 @@ const game = {
     pipeHeight: 0,
     nPipes: 0,
     // Score
-    score: 0,
+    score: 100,
     // Load images path
     path: "img/",
     // Background image
